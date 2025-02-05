@@ -1,0 +1,4 @@
+asyncpg==0.30.0
+aiogram==3.17.0
+APScheduler==3.11.0
+simple_py_config==0.0.1
